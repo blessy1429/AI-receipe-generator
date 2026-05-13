@@ -1,0 +1,2 @@
+# AI receipe generator 
+AI Recipe Generator is an Android application that helps users generate cooking recipes instantly based on the ingredients they have available. Instead of searching manually, users simply enter ingredients and the app generates a complete recipe including preparation steps and cooking instructions using AI-based logic.  This app is designed to reduce food waste, save time in the kitchen, and help users discover new recipes easily.
